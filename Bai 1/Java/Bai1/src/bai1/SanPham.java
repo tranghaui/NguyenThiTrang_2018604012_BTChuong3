@@ -5,10 +5,7 @@
  */
 package bai1;
 
-/**
- *
- * @author haquo
- */
+
 public class SanPham {
 
     String MaSP;

@@ -9,10 +9,7 @@ import java.util.ArrayList;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author haquo
- */
+
 public class ViewBai1 extends javax.swing.JFrame {
 
     /**

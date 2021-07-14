@@ -5,10 +5,7 @@
  */
 package View;
 
-/**
- *
- * @author haquo
- */
+
 public class QuanLyNhanVien extends javax.swing.JFrame {
 
     /**

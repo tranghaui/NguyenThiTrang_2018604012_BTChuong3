@@ -11,10 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-/**
- *
- * @author haquo
- */
+
 public class SanPhamDAO {
      private Connection conn;
 
